@@ -4,7 +4,7 @@
     "slug": "notes-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/note.png",
+    "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -30,6 +30,9 @@
         "projectId": "c632d08f-5512-477c-a080-a31e50cec50a"
       }
     },
-    "owner": "logikfoxx"
+    "owner": "logikfoxx",
+    "android": {
+      "package": "com.logikfoxx.notesapp"
+    }
   }
 }
